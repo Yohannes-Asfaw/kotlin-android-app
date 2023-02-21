@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="enter_your_dob_here">Enter your DOB here</string>
+    <string name="your_age_shows_here">Your age shows here</string>
+    <string name="get_age">Get Age</string>
+    <string name="submit">submit</string>
+    <string name="hello_welcome_to_this_app">Hello Welcome to this app</string>
+    <string name="dob">DOB</string>
+    <string name="name">NAME</string>
+    <string name="enter_you_name_here">Enter you name here</string>
+    <string name="about_me">About Me</string>
+    <string name="enter_your_dob_in_year_here">Enter your DOB in year here</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+</resources>
